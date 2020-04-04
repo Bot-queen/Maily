@@ -33,7 +33,7 @@ def drive():
             if choice == "a":
                 car.accelerate()
             elif choice == "b":
-                car.decelerate()
+                car.deceleration()
             elif choice == "c":
                 car.show_speed()
             else:
